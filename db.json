@@ -8,7 +8,6 @@
     "mula" : "1 Jan 2023",
     "tamat" : "1 Jul 2023",
     "nama" : "NURUL SYAZWANI BINTI HASHIM @ ISMAIL", 
-    "status" : "ACTIVE"
     },
     { 
     "id": 2, 
@@ -17,16 +16,14 @@
     "mula" : "26 Jan 2023",
     "tamat" : "26 Jan 2024",
     "nama" : "FAZLINA BINTI ROSLI", 
-    "status" : "ACTIVE"
     },
     { 
-    "id": 2, 
-    "mandateId" : 330404878090 , 
+    "id": 3, 
+    "mandateId" : 350070001459 , 
     "status" : "AKTIF" , 
-    "mula" : "26 Jan 2023",
-    "tamat" : "26 Jan 2024",
-    "nama" : "FAZLINA BINTI ROSLI", 
-    "status" : "ACTIVE"
+    "mula" : "29 Jan 2022",
+    "tamat" : "26 Jan 2023",
+    "nama" : "TEST ACCOUNT PENDAHULUAN", 
     }
   ],
   "butiranpembayar": 
