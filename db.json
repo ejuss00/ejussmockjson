@@ -48,9 +48,9 @@
   "alamat": " JALAN 1 JALAN 101 SEMENTA 41700 SELANGOR"
   },
   ],
-  "profile": [
+  "profile": 
   {
     "name": "typicode"
   }
-  ],
+  ,
 }
