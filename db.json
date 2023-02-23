@@ -107,6 +107,69 @@
     "eps_merchant_id": "00101587774999"
     }
   ],
+  "kolej&institut": 
+  [
+    { 
+    "id": 1, 
+    "jenisInstitutid": "KPM" , 
+    "namaInstitut": "KPM INDERA MAHKOTA",
+    "level": "Diploma",
+    "namaKursus": "DIPLOMA IN COMPUTER NETWORKING", 
+    "sem": "1/2021", 
+    "yuran": 110.00,
+    "tutup": "31 Jul 2023"
+    },
+    { 
+    "id": 2, 
+    "jenisInstitutid": "KPM" , 
+    "namaInstitut": "KPM INDERA MAHKOTA",
+    "level": "Diploma",
+    "namaKursus": "DIPLOMA IN CREATIVE DIGITAL MEDIA & PRODUCTION", 
+    "sem": "1/2021", 
+    "yuran": 110.00,
+    "tutup": "31 Jul 2023"
+    },
+    { 
+    "id": 3, 
+    "jenisInstitutid": "KM" , 
+    "namaInstitut": "KOLEJ MARA KUALA NERANGG",
+    "level": "Pra-universiti (termasuk matriks, asasi, A-level, IB, dan IEP)",
+    "namaKursus": "ASASI PERNIAGAAN KOLEJ MARA (UNIVERSITI KUALA LUMPUR)", 
+    "sem": "1/2020", 
+    "yuran": 180.00,
+    "tutup": "7 Ogs 2023"
+    },
+    { 
+    "id": 4, 
+    "jenisInstitutid": "KM" , 
+    "namaInstitut": "KOLEJ MARA KUALA NERANGG",
+    "level": "Pra-universiti (termasuk matriks, asasi, A-level, IB, dan IEP)",
+    "namaKursus": "ASASI PERNIAGAAN KOLEJ MARA (UNIVERSITI TENAGA NASIONAL)", 
+    "sem": "1/2020", 
+    "yuran": 180.00,
+    "tutup": "7 Ogs 2023"
+    },
+    { 
+    "id": 5, 
+    "jenisInstitutid": "KM" , 
+    "namaInstitut": "KOLEJ MARA KUALA NERANGG",
+    "level": "Pra-universiti (termasuk matriks, asasi, A-level, IB, dan IEP)",
+    "namaKursus": "ASASI PERNIAGAAN KOLEJ MARA (MULTIMEDIA UNIVERSITY)", 
+    "sem": "1/2020", 
+    "yuran": 180.00,
+    "tutup": "7 Ogs 2023"
+    },
+    { 
+    "id": 6, 
+    "jenisInstitutid": "KM" , 
+    "namaInstitut": "KOLEJ MARA KUALA NERANGG",
+    "level": "Pra-universiti (termasuk matriks, asasi, A-level, IB, dan IEP)",
+    "namaKursus": "ASASI KEJURUTERAAN & TEKNOLOGI KOLEJ MARA (UNIVERSITI TEKNOLOGI MALAYSIA)", 
+    "sem": "1/2020", 
+    "yuran": 180.00,
+    "tutup": "7 Ogs 2023"
+    }
+  ],
   "profile": 
   {
     "name": "typicode"
