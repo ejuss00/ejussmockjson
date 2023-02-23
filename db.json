@@ -1,52 +1,52 @@
 {
-  "profileEmandate": [
+  "profileEmandate": 
+  [
     { 
-  "id": 1, 
-  "mandateId" : 330391344035 , 
-  "status" : "AKTIF" , 
-  "mula" : "1 Jan 2023",
-  "tamat" : "1 Jul 2023",
-  "nama" : "NURUL SYAZWANI BINTI HASHIM @ ISMAIL", 
-  "status" : "ACTIVE"
-  },
-  { 
-  "id": 2, 
-  "mandateId" : 330404878090 , 
-  "status" : "AKTIF" , 
-  "mula" : "26 Jan 2023",
-  "tamat" : "",
-  "nama" : "FAZLINA BINTI ROSLI", 
-  "status" : "ACTIVE"
-  },
-  { 
-  "id": 2, 
-  "mandateId" : 330404878090 , 
-  "status" : "AKTIF" , 
-  "mula" : "26 Jan 2023",
-  "tamat" : "",
-  "nama" : "FAZLINA BINTI ROSLI", 
-  "status" : "ACTIVE"
-  },
-  
-    
+    "id": 1, 
+    "mandateId" : 330391344035 , 
+    "status" : "AKTIF" , 
+    "mula" : "1 Jan 2023",
+    "tamat" : "1 Jul 2023",
+    "nama" : "NURUL SYAZWANI BINTI HASHIM @ ISMAIL", 
+    "status" : "ACTIVE"
+    },
+    { 
+    "id": 2, 
+    "mandateId" : 330404878090 , 
+    "status" : "AKTIF" , 
+    "mula" : "26 Jan 2023",
+    "tamat" : "",
+    "nama" : "FAZLINA BINTI ROSLI", 
+    "status" : "ACTIVE"
+    },
+    { 
+    "id": 2, 
+    "mandateId" : 330404878090 , 
+    "status" : "AKTIF" , 
+    "mula" : "26 Jan 2023",
+    "tamat" : "",
+    "nama" : "FAZLINA BINTI ROSLI", 
+    "status" : "ACTIVE"
+    }
   ],
-  "butiranpembayar": [
+  "butiranpembayar": 
+  [
     { 
-  "id": 1, 
-  "noId": 891229915009 , 
-  "nama": "ADMIN", 
-  "emel": "azim@nubicconnect.com", 
-  "phone": "0123363636",
-  "alamat": " JALAN 8 JALAN 88 KLANG 41000 KELANTAN"
-  },
-    { 
-  "id": 2, 
-  "noId": 900000000009 , 
-  "nama": "ADMIN", 
-  "emel": "test@nubicconnect.com", 
-  "phone": "0113363991",
-  "alamat": " JALAN 1 JALAN 101 SEMENTA 41700 SELANGOR"
-  },
+    "id": 1, 
+    "noId": 891229915009 , 
+    "nama": "ADMIN", 
+    "emel": "azim@nubicconnect.com", 
+    "phone": "0123363636",
+    "alamat": " JALAN 8 JALAN 88 KLANG 41000 KELANTAN"
+    },
+      { 
+    "id": 2, 
+    "noId": 900000000009 , 
+    "nama": "ADMIN", 
+    "emel": "test@nubicconnect.com", 
+    "phone": "0113363991",
+    "alamat": " JALAN 1 JALAN 101 SEMENTA 41700 SELANGOR"
+    }
   ],
   "profile": 
   {
