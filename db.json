@@ -48,6 +48,49 @@
     "alamat": " JALAN 1 JALAN 101 SEMENTA 41700 SELANGOR"
     }
   ],
+  "rumahrehat": 
+  [
+    { 
+    "id": 1, 
+    "stateId": 1 , 
+    "location": "Rumah Rehat Johor", 
+    "unit": "No 09-07", 
+    "nilai": "40.00",
+    "eps_merchant_id": "00101587674999"
+    },
+    { 
+    "id": 2, 
+    "stateId": 1 , 
+    "location": "Rumah Rehat Johor", 
+    "unit": "No 09-09", 
+    "nilai": "40.00",
+    "eps_merchant_id": "00101587674999"
+    },
+    { 
+    "id": 3, 
+    "stateId": 2 , 
+    "location": "Langkawi", 
+    "unit": "No 10", 
+    "nilai": "50.00",
+    "eps_merchant_id": "00101585474999"
+    },
+    { 
+    "id": 4, 
+    "stateId": 3 , 
+    "location": "Rumah Rehat Kelantan", 
+    "unit": "RV-10C", 
+    "nilai": "50.00",
+    "eps_merchant_id": "00101588574999"
+    },
+    { 
+    "id": 5, 
+    "stateId": 5 , 
+    "location": "The Regency Port Dickson", 
+    "unit": "Angsana (Tkt 4 - No 9)", 
+    "nilai": "30.00",
+    "eps_merchant_id": "00101586174999"
+    }
+  ],
   "profile": 
   {
     "name": "typicode"
