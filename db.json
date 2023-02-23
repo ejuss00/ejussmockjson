@@ -89,7 +89,23 @@
     "unit": "Angsana (Tkt 4 - No 9)", 
     "nilai": "30.00",
     "eps_merchant_id": "00101586174999"
-    }
+    },
+    { 
+    "id": 6, 
+    "stateId": 10 , 
+    "location": "Petaling Jaya", 
+    "unit": "Banglo", 
+    "nilai": "90.00",
+    "eps_merchant_id": "00101587774999"
+    },
+    { 
+    "id": 7, 
+    "stateId": 10 , 
+    "location": "Petaling Jaya", 
+    "unit": "Bilik Chengal (Bilik Utama)", 
+    "nilai": "30.00",
+    "eps_merchant_id": "00101587774999"
+    },
   ],
   "profile": 
   {
