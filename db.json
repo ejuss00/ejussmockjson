@@ -39,7 +39,7 @@
     "phone": "0123363636",
     "alamat": " JALAN 8 JALAN 88 KLANG 41000 KELANTAN"
     },
-      { 
+    { 
     "id": 2, 
     "noId": 900000000009 , 
     "nama": "ADMIN", 
@@ -52,5 +52,4 @@
   {
     "name": "typicode"
   }
-  ,
 }
