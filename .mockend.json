@@ -1,12 +1,17 @@
 {
-	{
-		"body": "You can use your own data or have random values generated for you.",
-		"category": "three",
-		"cover": "https://picsum.photos/seed/31611/1920/270",
-		"createdAt": "2012-12-23T16:16:39Z",
-		"id": 1,
-		"isDraft": true,
-		"title": "First title",
-		"views": 403
-	}
+  "User": {
+    "_": {
+      // Define how many items you need 
+      "items": 50,
+      // Set custom data
+      "data": [
+	{ "name": "John Doe", "online": true, "picture": "https://…" }
+      ]
+    },
+    // Use random generators
+    "name": { "string": {} },
+    "online": { "boolean": {} },
+    "picture": { "regexp": "https://…" },
+    "posts": { "hasMany": "Post" }
+  }
 }
